@@ -217,3 +217,7 @@ int main () {
     }
     return 0;
 }
+
+
+
+Escreva abaixo o valor devolvido pela função calcula para a entrada 5 2 3 4 + + * RESPOSTA: 19
